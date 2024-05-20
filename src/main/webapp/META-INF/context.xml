@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Proyecto_Web">
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="DB" password="hPa&amp;0:|7" type="javax.sql.DataSource" url="jdbc:mysql://srv1076.hstgr.io:3306/u624518051_sis_inventario" username="u624518051_root"/>
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="BD" password="hPa&amp;0:|7" type="javax.sql.DataSource" url="jdbc:mysql://srv1076.hstgr.io:3306/u624518051_sis_inventario" username="u624518051_root"/>
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="EjemploJavaPU" password="hPa&amp;0:|7" type="javax.sql.DataSource" url="jdbc:mysql://srv1076.hstgr.io:3306/u624518051_sis_inventario" username="u624518051_root"/>
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="u624518051_sis_inventario" password="hPa&amp;0:|7" type="javax.sql.DataSource" url="jdbc:mysql://srv1076.hstgr.io:3306/u624518051_sis_inventario" username="u624518051_root"/>
+  <Resource auth="Container" driverClassName="com.mysql.cj.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="jdbc:mysql://srv1076.hstgr.io:3306/u624518051_sis_inventario [u624518051_root on Default schema]" password="hPa&amp;0:|7" type="javax.sql.DataSource" url="jdbc:mysql://srv1076.hstgr.io:3306/u624518051_sis_inventario" username="u624518051_root"/>
+</Context>
